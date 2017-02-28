@@ -8,6 +8,6 @@
 5. Connect the visualizer appliaction to the mobilefabric app.
 6. Build & run the app for supported platforms.
 
-# Supported platforms for Kony Visualizer 7.0
+# Supported platforms for Kony Visualizer 7.3
 **Mobile**
  * Android
