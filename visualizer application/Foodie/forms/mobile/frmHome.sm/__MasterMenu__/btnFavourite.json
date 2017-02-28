@@ -1,0 +1,43 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb387f67257f4e07b92475f3419a4af8",
+    "_srcKuid_": "e86c8b766d0140658c5f11ab189e2a3e",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "centerX": "50%",
+        "height": {
+            "type": "string",
+            "value": "50dp"
+        },
+        "id": "btnFavourite",
+        "left": "0dp",
+        "text": "Favourite",
+        "top": "0dp",
+        "width": {
+            "type": "string",
+            "value": "100%"
+        },
+        "zIndex": 1
+    },
+    "id": "btnFavourite",
+    "ide_onClick": "AS_Button_ef816ce4bbc449eb8ca143fd39785f0a",
+    "instanceOf": "e86c8b766d0140658c5f11ab189e2a3e",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "m1b062b4ab34494781b08a0a056468a2",
+    "masterInstance": true,
+    "name": "kony.ui.Button",
+    "parent": "flxMenuRoot",
+    "pf": "frmHome",
+    "topLevelInstanceKUID": "m6678728a4024faa8384abaa0578f91c",
+    "wType": "Button"
+}

@@ -1,0 +1,24 @@
+{
+    "AS_Button_aee22295487245bb9a7073181fbea235": {
+        "id": "AS_Button_aee22295487245bb9a7073181fbea235",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmRestaurantMenu",
+            "type": "forms",
+            "platform": "",
+            "KUID": "af0f657875aa4dca94b71ebe7ea783e0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__d0b75ca8e8134e4e9e961105ecf8c189",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.order();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

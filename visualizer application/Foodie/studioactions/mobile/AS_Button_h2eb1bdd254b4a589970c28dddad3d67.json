@@ -1,0 +1,17 @@
+{
+    "AS_Button_h2eb1bdd254b4a589970c28dddad3d67": {
+        "id": "AS_Button_h2eb1bdd254b4a589970c28dddad3d67",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_a6dc94df62244112b53e3c6419e110f9",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.searchRestaurant();",
+            "callbackType": null
+        }]
+    }
+}

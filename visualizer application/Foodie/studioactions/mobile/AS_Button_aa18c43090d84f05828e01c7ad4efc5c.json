@@ -1,0 +1,17 @@
+{
+    "AS_Button_aa18c43090d84f05828e01c7ad4efc5c": {
+        "id": "AS_Button_aa18c43090d84f05828e01c7ad4efc5c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_41180350c6eb467782c469be19686fb3",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.navigateTofrmRestaurants();",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_a5e5478404024ba4ad632d1d4e0a980a": {
+        "id": "AS_FlexContainer_a5e5478404024ba4ad632d1d4e0a980a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmHome2",
+            "type": "forms",
+            "platform": "",
+            "KUID": "2dfdf38e41174418a107adc63ba4aaaa"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__2cd2ad7161f24015887fe93d0732a2a8",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.getNearByRestaurant();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

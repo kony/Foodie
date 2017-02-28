@@ -1,0 +1,46 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s8b27cbde45346d68328de476d1898b4",
+    "_srcKuid_": "f8ce03fcbe9348fab81ee648a536c002",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "children": [],
+    "context": {},
+    "dataDiffs": {
+        "clipBounds": true,
+        "enableScrolling": true,
+        "height": {
+            "type": "string",
+            "value": "100%"
+        },
+        "id": "flxShadow",
+        "layoutType": 2,
+        "left": "0dp",
+        "snapGridSize": 10,
+        "snapToGrid": true,
+        "top": "0dp",
+        "width": {
+            "type": "string",
+            "value": "30%"
+        },
+        "zIndex": 1
+    },
+    "id": "flxShadow",
+    "instanceOf": "f8ce03fcbe9348fab81ee648a536c002",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "mac6cd0914fe464e885809fe074f6546",
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxMenuContainer",
+    "pf": "frmHome",
+    "topLevelInstanceKUID": "m6678728a4024faa8384abaa0578f91c",
+    "wType": "FlexContainer"
+}

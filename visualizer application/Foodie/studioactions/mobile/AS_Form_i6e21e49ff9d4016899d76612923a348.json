@@ -1,0 +1,27 @@
+{
+    "AS_Form_i6e21e49ff9d4016899d76612923a348": {
+        "id": "AS_Form_i6e21e49ff9d4016899d76612923a348",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "9b74c11daa304d118f07a119e787eb8b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___f6f26c6616814b3d86c91839fd7715b6",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "callbackAndroidSetCallbacks",
+            "display": "callbackAndroidSetCallbacks",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "AS_Button_f61b6da550754cb3864e11c8a729c9c3": {
+        "id": "AS_Button_f61b6da550754cb3864e11c8a729c9c3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmOrder",
+            "type": "forms",
+            "platform": "",
+            "KUID": "fe6bafba26a445efabc3330fe3909cf1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__jbf4213ac3e54ff7a93d71ab9f3c5d03",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.makePayment();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

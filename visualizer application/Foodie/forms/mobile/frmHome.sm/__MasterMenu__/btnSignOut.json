@@ -1,0 +1,42 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s79243338925493ba0c6ac3512cfd296",
+    "_srcKuid_": "ef234c61c52648b99d2ab259c27ef18b",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "centerX": "50%",
+        "height": {
+            "type": "string",
+            "value": "50dp"
+        },
+        "id": "btnSignOut",
+        "text": "Sign Out",
+        "top": "0dp",
+        "width": {
+            "type": "string",
+            "value": "260dp"
+        },
+        "zIndex": 1
+    },
+    "id": "btnSignOut",
+    "ide_onClick": "AS_Button_ffffc62133ae4079af72c3f04b8ee88d",
+    "instanceOf": "ef234c61c52648b99d2ab259c27ef18b",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "mf6118b269f244109d547c696a900cd8",
+    "masterInstance": true,
+    "name": "kony.ui.Button",
+    "parent": "flxMenuRoot",
+    "pf": "frmHome",
+    "topLevelInstanceKUID": "m6678728a4024faa8384abaa0578f91c",
+    "wType": "Button"
+}

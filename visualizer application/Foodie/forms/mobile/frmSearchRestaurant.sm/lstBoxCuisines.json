@@ -1,0 +1,81 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "select cuisines..",
+    "_skin_": "s9697729b07a414b8b987daa119b972e",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "85%"
+    },
+    "android": {
+        "psp": {
+            "placeholderSkin": "s4444887e334469c841c2239b38b1404"
+        }
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmSearchRestaurant",
+        "platform": "android",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "groupcells": false,
+    "id": "lstBoxCuisines",
+    "ide_onSelection": "AS_ListBox_fdcc9057f78142ee947e602934d655d4",
+    "info": null,
+    "isvisible": true,
+    "kuid": "aa930d3c9e934701a7b7f75debf54923",
+    "masterdata": [
+        [
+            "-1",
+            "select cuisines"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "parent": "flxCuisines",
+    "pf": "frmSearchRestaurant",
+    "selectedkeys": null,
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}
