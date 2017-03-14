@@ -1,6 +1,6 @@
 # Foodie
 
-**Description 
+**Description**
 
 The app contains metrics for the below things:
 Foodie is a restaurant app have following cases
@@ -18,6 +18,7 @@ It also searches the restaurants in a particular city with available cuisines,
 Below are the scenarios for which the metrics is defined:
 
 1.Metrics for list of users logged in with a particular google account.
+
   *To view reports for this there is a custom metrics as defined as "logged in”, user can just drag and drop      the key from right side of the console to the Rows field of the report and to count which user logged in       how many number of times, user   have to create measure, here there is a measure created as   "countLoggedIn" we need to add that in the columns field from the Measures tab present at right side of the   console. The resultant report will be generated.
   
 2.Frequently viewed restaurant.
@@ -39,7 +40,7 @@ Below are the scenarios for which the metrics is defined:
    *Key for this metrics is "payment".
    
 8.No of users subscribed for push.
-   *Key for this metrics is "".
+   *Key for this metrics is "subscribed for push".
    
 9.No. of users entered map form for location: *Key for this metrics is "map1".
 
