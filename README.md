@@ -48,7 +48,7 @@ Below are the scenarios for which the metrics is defined:
 
 1. Download the project zip file.
 2. Import the visualizer application to visualizer version 7.3
-3. Imoprt the MobileFabric appliaction the mobilefabric and publish it.
+3. Import the MobileFabric appliaction the mobilefabric and publish it.
 4. Configure the callback url of the identity service to the corresponding OAuth provider
 5. Connect the visualizer appliaction to the mobilefabric app.
 6. Build & run the app for supported platforms.
