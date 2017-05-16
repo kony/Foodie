@@ -5,7 +5,9 @@
 The app contains metrics for the below things:
 Foodie is a restaurant app have following cases
 
-Has google and Facebook logins,
+Has google{for android} and Facebook logins,
+
+User can update their information,
 
 Finding the nearby restaurants,
 
