@@ -57,3 +57,4 @@ It also demonstrate metrics feature of Kony MobileFabric:
 # Supported platforms for Kony Visualizer 7.3
 **Mobile**
  * Android
+ * iPhone
