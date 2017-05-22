@@ -1,0 +1,38 @@
+{
+    "AS_Button_ae429e0ea0bd47dd9024f84bfb6fe0d1": {
+        "id": "AS_Button_ae429e0ea0bd47dd9024f84bfb6fe0d1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "9b74c11daa304d118f07a119e787eb8b"
+        },
+        "sourceObj": {
+            "itemKUID": "f6110111635045ee87767e8080129f26",
+            "widgetKUID": "e87eecd309dc49ebb37e831d30165a1a",
+            "evt": "onClick"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__a925a43e87a948d6a697cf30d6045480",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.hideMenu();",
+            "parentId": null,
+            "callbackType": null
+        }, {
+            "id": "INVOKE_FUNCTION___jb5c7f9a76cf47ec8ad6063bd3029c3f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "pushRegistration",
+            "display": "pushRegistration",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

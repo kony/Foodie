@@ -1,0 +1,56 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s79d790d43ce484c9f67a2c764cd18a9",
+    "_srcKuid_": "m6bed675675e462785f0b4f6fb1923fa",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "children": [
+        "flxMenuContainer"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "clipBounds": true,
+        "enableScrolling": true,
+        "height": {
+            "type": "string",
+            "value": "100%"
+        },
+        "id": "MasterMenu",
+        "layoutType": 2,
+        "left": {
+            "type": "string",
+            "value": "-100%"
+        },
+        "snapGridSize": 10,
+        "snapToGrid": true,
+        "top": "0dp",
+        "width": {
+            "type": "string",
+            "value": "100%"
+        },
+        "zIndex": 10
+    },
+    "id": "MasterMenu",
+    "ide_onClick": "AS_FlexContainer_bf1c5f2b09864185bd10b95fb07f94b2",
+    "ide_postShow": "AS_FlexContainer_f17a97fea8304cd2a7ac3c0af75c83b9",
+    "instanceOf": "m6bed675675e462785f0b4f6fb1923fa",
+    "isTopFlexInstance": true,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "m6678728a4024faa8384abaa0578f91c",
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxRoot",
+    "pf": "frmHome",
+    "vizProps": {
+        "hidewidgethierarchy": false
+    },
+    "wType": "FlexContainer"
+}

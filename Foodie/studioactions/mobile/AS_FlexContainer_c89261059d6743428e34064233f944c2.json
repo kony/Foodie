@@ -1,0 +1,27 @@
+{
+    "AS_FlexContainer_c89261059d6743428e34064233f944c2": {
+        "id": "AS_FlexContainer_c89261059d6743428e34064233f944c2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "segTmpFavRestaurant",
+            "type": "templates",
+            "platform": "",
+            "KUID": "4508446a2d0a4085bba333f4cd7a88b1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__9f74d132f5d6453c8dda76f28d5b302a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.removeRestaurant(eventobject,context);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

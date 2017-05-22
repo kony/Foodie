@@ -1,0 +1,29 @@
+{
+    "AS_Button_ef816ce4bbc449eb8ca143fd39785f0a": {
+        "id": "AS_Button_ef816ce4bbc449eb8ca143fd39785f0a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "9b74c11daa304d118f07a119e787eb8b"
+        },
+        "sourceObj": {
+            "itemKUID": "f6110111635045ee87767e8080129f26",
+            "widgetKUID": "e86c8b766d0140658c5f11ab189e2a3e",
+            "evt": "onClick"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__j2b05ffe8fe1435cb5f2914c119ab929",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.getFavouriteRestaurant();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

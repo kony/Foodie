@@ -1,0 +1,17 @@
+{
+    "AS_Button_e0cf22f3dd4b4099b72c2a89f09ca0c5": {
+        "id": "AS_Button_e0cf22f3dd4b4099b72c2a89f09ca0c5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_b15d6e53581a476d82964d25a499a9a7",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.googleLogin();",
+            "callbackType": null
+        }]
+    }
+}

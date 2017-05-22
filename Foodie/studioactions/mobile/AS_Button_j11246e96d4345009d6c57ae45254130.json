@@ -1,0 +1,17 @@
+{
+    "AS_Button_j11246e96d4345009d6c57ae45254130": {
+        "id": "AS_Button_j11246e96d4345009d6c57ae45254130",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_eebd412a6af74ff7b61a78be65987745",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.getFavouriteRestaurant();",
+            "callbackType": null
+        }]
+    }
+}

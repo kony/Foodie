@@ -1,0 +1,24 @@
+{
+    "AS_Button_j5c5c05a8fee46fea2c97f5e4a4d8917": {
+        "id": "AS_Button_j5c5c05a8fee46fea2c97f5e4a4d8917",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmResDetails",
+            "type": "forms",
+            "platform": "",
+            "KUID": "3e8d7aa94f854182a0bf598ffd5826f5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__j028f4a2668a4f2e9212cd90d8e161cb",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.showRestaurantMenu();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

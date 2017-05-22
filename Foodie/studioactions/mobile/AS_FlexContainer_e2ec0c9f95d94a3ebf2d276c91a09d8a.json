@@ -1,0 +1,36 @@
+{
+    "AS_FlexContainer_e2ec0c9f95d94a3ebf2d276c91a09d8a": {
+        "id": "AS_FlexContainer_e2ec0c9f95d94a3ebf2d276c91a09d8a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "segTmpRestaurant",
+            "type": "templates",
+            "platform": "",
+            "KUID": "9cb3d66cc55843129e2566be4a93b6fc"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___23dbc616e7644fde9c200eabbda243b6",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "SyncProgressManager",
+            "display": "SyncProgressManager",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }, {
+            "id": "ADD_SNIPPET__361c2afe372f48b087b8408203662f8a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": null,
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

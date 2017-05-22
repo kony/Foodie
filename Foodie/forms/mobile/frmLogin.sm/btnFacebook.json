@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "90dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "57dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s58aaea5910f41469038e1c32922b464",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "427dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "265dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s58aaea5910f41469038e1c32922b464",
+    "id": "btnFacebook",
+    "ide_onClick": "AS_Button_h450671a6b5c4daa96b235898946ff85",
+    "info": null,
+    "isvisible": true,
+    "kuid": "ece69ef0b8424301be9c82c61178105c",
+    "name": "kony.ui.Button",
+    "parent": "frmLogin",
+    "pf": "frmLogin",
+    "wType": "Button",
+    "zindex": 1
+}

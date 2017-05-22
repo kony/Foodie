@@ -1,0 +1,185 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "imgDelete": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "deletee.png"
+            },
+            "imgResIcon": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "lblCuisines": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cuisines"
+            },
+            "lblLine": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblRating": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "4.5"
+            },
+            "lblResName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Restaurant name"
+            }
+        },
+        {
+            "imgDelete": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "deletee.png"
+            },
+            "imgResIcon": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "lblCuisines": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cuisines"
+            },
+            "lblLine": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblRating": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "4.5"
+            },
+            "lblResName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Restaurant name"
+            }
+        },
+        {
+            "imgDelete": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "deletee.png"
+            },
+            "imgResIcon": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "lblCuisines": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cuisines"
+            },
+            "lblLine": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblRating": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "4.5"
+            },
+            "lblResName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Restaurant name"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "cc899ece0d074170880645876344def2",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segRestaurant",
+    "ide_onRowClick": "AS_Segment_a6ad63bb0a4844e0982c8d98b1fcc8d6",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "4eba48dd5c1e4bca9ff2d14282c021f5",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxRootContainer",
+    "pf": "frmFavourite",
+    "retainselection": false,
+    "rowTemplateId": "4508446a2d0a4085bba333f4cd7a88b1",
+    "rowcounter": 2,
+    "rowfocusskin": "sf2e07b412be4c98b3ffb36d36a509c0",
+    "rowskin": "sf2e07b412be4c98b3ffb36d36a509c0",
+    "rowtemplate": "flxFavRootContainer",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "sa7fbce66693498194d459ebe0548899",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": true,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxDelete": "flxDelete",
+        "flxDeleteRestaurant": "flxDeleteRestaurant",
+        "flxFavRootContainer": "flxFavRootContainer",
+        "flxRestaurantInfo": "flxRestaurantInfo",
+        "flxTitle": "flxTitle",
+        "imgDelete": "imgDelete",
+        "imgResIcon": "imgResIcon",
+        "lblCuisines": "lblCuisines",
+        "lblLine": "lblLine",
+        "lblRating": "lblRating",
+        "lblResName": "lblResName"
+    },
+    "zindex": 1
+}

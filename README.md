@@ -1,27 +1,26 @@
-# Foodie
+Foodie
+===============
+# Purpose
+This Application will demonstrate Kony Reference Architecture.
+It includes:
 
-**Description**
+* Facebook logins,
 
-The app contains metrics for the below things:
-Foodie is a restaurant app have following cases
+* User can update their information,
 
-Has google{for android} and Facebook logins,
+* Finding the nearby restaurants,
 
-User can update their information,
+* Adding them to favorites,
 
-Finding the nearby restaurants,
+* The user will be able to see the menu provided by the restaurant,
 
-Adding them to favorites,
+* It also searches the restaurants in a particular city with available cuisines,
 
-The user will be able to see the menu provided by the restaurant,
-
-It also searches the restaurants in a particular city with available cuisines,
-
-Below are the scenarios for which the metrics is defined:
+It also demonstrate metrics feature of Kony MobileFabric:
 
 1.Metrics for list of users logged in with a particular google account.
 
-  *To view reports for this there is a custom metrics as defined as "logged in”, user can just drag and drop      the key from right side of the console to the Rows field of the report and to count which user logged in       how many number of times, user   have to create measure, here there is a measure created as   "countLoggedIn" we need to add that in the columns field from the Measures tab present at right side of the   console. The resultant report will be generated.
+  *To view reports for this there is a custom metrics as defined as "logged in”, user can just drag and drop      the key from right side of the console to the Rows field of the report and to count which user logged in how many number of times, user   have to create measure, here there is a measure created as   "countLoggedIn" we need to add that in the columns field from the Measures tab present at right side of the console. The resultant report will be generated.
   
 2.Frequently viewed restaurant.
    *Similarly as above user have to add "selected restaurant" metric key to row fields and the respective            count in the columns field.

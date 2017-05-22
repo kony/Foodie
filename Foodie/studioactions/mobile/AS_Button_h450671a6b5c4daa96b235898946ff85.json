@@ -1,0 +1,24 @@
+{
+    "AS_Button_h450671a6b5c4daa96b235898946ff85": {
+        "id": "AS_Button_h450671a6b5c4daa96b235898946ff85",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLogin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "97f4bf1f17b04547b0979a41d1859419"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__b34dcf37905942deb017b9a6ed990055",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.login(RESTAURANT_CONFIG.FACEBOOK_PROVIDER);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

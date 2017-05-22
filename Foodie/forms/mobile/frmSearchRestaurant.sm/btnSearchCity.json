@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sf50f1b51dd044618503788b1b075fbc",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "87dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sf50f1b51dd044618503788b1b075fbc",
+    "id": "btnSearchCity",
+    "ide_onClick": "AS_Button_e9d060fb41cf4ef5b9a3a90fe0f9d414",
+    "info": null,
+    "isvisible": true,
+    "kuid": "de1d8466c590458d83d69d8ddb7455fa",
+    "name": "kony.ui.Button",
+    "parent": "flxCity",
+    "pf": "frmSearchRestaurant",
+    "wType": "Button",
+    "zindex": 50
+}

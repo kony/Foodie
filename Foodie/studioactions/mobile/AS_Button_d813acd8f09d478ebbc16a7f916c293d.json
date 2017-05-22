@@ -1,0 +1,17 @@
+{
+    "AS_Button_d813acd8f09d478ebbc16a7f916c293d": {
+        "id": "AS_Button_d813acd8f09d478ebbc16a7f916c293d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_d533d30143a2460d80394c2d1a929c02",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.navigateToFormProfile();",
+            "callbackType": null
+        }]
+    }
+}
