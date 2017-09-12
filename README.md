@@ -31,21 +31,28 @@ It also demonstrate metrics feature of Kony MobileFabric:
    *The "edit profile" key can be used and "count
    
 4.Restaurants added to favorites list by the user
+
    *The key for this metrics is "marked as favorite"
    
 5.Restaurant searched in a particular city
+
   *Custom metrics key for this is " 
   
 6.How many of users visited order form
+
    *Key for this metrics is "order food".
    
 7.No. of users done payment
+
    *Key for this metrics is "payment".
    
 8.No of users subscribed for push.
+
    *Key for this metrics is "subscribed for push".
    
-9.No. of users entered map form for location: *Key for this metrics is "map1".
+9.No. of users entered map form for location: 
+
+*Key for this metrics is "map1".
 
 **To Run This App for Kony Visualizer Enterprise:**
 
